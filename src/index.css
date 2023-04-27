@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Itim&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #F9F3DF;
+  font-family: 'Itim', cursive;
+}
+
+code {
+  font-family: 'Itim', cursive;
+}
+
+.d-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.justify-space {
+  justify-content: space-between;
+}
+
+.grid {
+  background-color: #F9F3DF;
+  padding : 50px 0px;
+}
+
+.center {
+  color: grey;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Itim', cursive;;
+}
+
+.size-20 {
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
